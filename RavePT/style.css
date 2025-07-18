@@ -42,3 +42,9 @@ body {
     padding: 0 20px;              /* optional: for spacing on small screens */
 }
 
+.checkbox-item {
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #333;
+}
+
